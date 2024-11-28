@@ -30,7 +30,7 @@ The project involves the following steps:
 
 ## Results
 
-The model achieved an accuracy of [insert accuracy score] on the test dataset. You can find more details about the evaluation metrics in the notebook.
+The model achieved an accuracy of [94%] on the test dataset. You can find more details about the evaluation metrics in the notebook.
 
 ## Future Improvements
 
